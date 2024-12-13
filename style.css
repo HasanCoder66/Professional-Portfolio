@@ -99,6 +99,7 @@ section {
 
 .home-img img {
     width: 35vw;
+    border-radius: 50%;
     animation: floatImage 4s ease-in-out infinite;
 }
 @keyframes floatImage {
@@ -186,6 +187,7 @@ span {
 
 .about-img img {
     width: 35vw;
+    border-radius: 50%;
 }
 
 .heading {
